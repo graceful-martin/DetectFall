@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sensor</string>
+    <string name="safe_string">저는 안전합니다.</string>
+</resources>
